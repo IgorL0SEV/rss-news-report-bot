@@ -51,10 +51,12 @@ pip install -r requirements.txt
 pip install -r requirements_full.txt
 
 ### 4. Заполнить .env файл (создать, если нет):
+```
 OPENAI_API_KEY=sk-...              # Только для main.py (OpenAI)
 PROXYAPI_KEY=sk-...                # Только для main2.py (ProxyAPI)
 TELEGRAM_TOKEN=ваш_токен_бота
 TELEGRAM_CHAT_ID=ваш_chat_id
+```
 
 ### 5. Проверить или изменить адрес RSS-ленты:
 RSS_URL = "http://feeds.reuters.com/reuters/topNews"
