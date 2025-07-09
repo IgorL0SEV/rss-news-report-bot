@@ -18,14 +18,16 @@ AI-мультиагентный бот для автоматического с�
 ## 📂 Структура проекта
 RSS_NEWS_REPORT_BOT/
 ├── agents/
-│ ├── news_summarizer_task.py
-│ ├── report_task.py
-│ └── rss_parser_task.py
-├── main.py # CrewAI + OpenAI pipeline
-├── main2.py # ProxyAPI pipeline
+│   ├── news_summarizer_task.py
+│   ├── report_task.py
+│   └── rss_parser_task.py
+├── main.py            # CrewAI + OpenAI pipeline
+├── main2.py           # ProxyAPI pipeline
 ├── requirements.txt
+├── .gitignore
 ├── .env
 └── test_proxyapi.py
+
 
 ---
 
