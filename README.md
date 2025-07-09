@@ -33,7 +33,6 @@ RSS_NEWS_REPORT_BOT/
 
 ### 1. Клонировать репозиторий и перейти в папку:
 
-```bash
 git clone <url>
 cd RSS_NEWS_REPORT_BOT
 
