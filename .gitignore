@@ -34,3 +34,4 @@ env/
 
 # System files
 Thumbs.db
+.idea/

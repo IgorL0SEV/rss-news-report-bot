@@ -44,7 +44,11 @@ venv\Scripts\activate  # Windows
 source venv/bin/activate  # Linux/Mac
 
 ### 3. Установи зависимости:
+Обычная установка (для пользователей):
 pip install -r requirements.txt
+
+Полная установка (идентичное окружение):
+pip install -r requirements_full.txt
 
 ### 4. Заполнить .env файл (создать, если нет):
 OPENAI_API_KEY=sk-...              # Только для main.py (OpenAI)
