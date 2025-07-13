@@ -3,7 +3,7 @@ main3.py
 Версия для работы с локальной моделью gemma3 через Ollama.
 
 - Endpoint: http://localhost:11434/v1/chat/completions
-- Модель: "gemma3:latest"
+- Модель: "phi3:mini"
 - API-ключ не требуется.
 - RSS: https://lenta.ru/rss/news
 - Логика и структура — как в main.py (OpenAI).
